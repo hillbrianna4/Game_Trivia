@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+# Project 3 - Game trivia
 
-Submitted by: **Your Name Here**
+Submitted by: Brianna Hill
 
 **Name of your app** is an app that ... [TODO] 
 
